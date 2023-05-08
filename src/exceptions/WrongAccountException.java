@@ -1,4 +1,4 @@
-package exceprions;
+package exceptions;
 
 public class WrongAccountException extends Exception{
 }
